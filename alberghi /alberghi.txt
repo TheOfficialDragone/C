@@ -1,0 +1,9 @@
+Cristallo *** 3 televisione garage aria_condizionata
+Lloyd **** 4 garage giardino frigo_bar ristorante
+Pierre ***** 5 garage frigo_bar televisione aria_condizionata ristorante
+Rex *** 3 ristorante garage giardino
+Fiera *** 4 televisione sala_riunioni aria_condizionata  garage
+Berna *** 2 televisione  frigo_bar
+Splendido **** 4 ristorante  frigo_bar  televisione  garage
+Solidad ** 1 televisione
+Washington **** 5  garage ristorante televisione giardino  sala_riunioni
